@@ -6,7 +6,6 @@ import LandSVG from "./assets/Land.png";
 
 
 export default function App() {
-  
   return (
     <div className="bg-[#5f0b08]">
       <Parallax pages={3} className="bg-[#5f0b08]">
