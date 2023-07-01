@@ -8,8 +8,12 @@ This code snippet is a React component written in TypeScript. It exports a defau
 
 ## Attribution
 
-- [Freepik](https://freepik.com/) (for graphics)
+- [Freepik](https://freepik.com/) (for the graphics)
+- Chat GPT (for the poem)
 
 
 ## Demo
+
+https://github.com/its-kunal/parallaz/assets/92196937/5eca38c5-7fa0-45b6-81cc-a1c78d1d6247
+
 
